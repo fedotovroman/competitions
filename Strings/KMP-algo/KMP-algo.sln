@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMP-algo", "KMP-algo\KMP-algo.csproj", "{E188EE04-1B47-4F74-8635-D9D96393F2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E188EE04-1B47-4F74-8635-D9D96393F2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E188EE04-1B47-4F74-8635-D9D96393F2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E188EE04-1B47-4F74-8635-D9D96393F2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E188EE04-1B47-4F74-8635-D9D96393F2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45781BF5-63A9-48FF-8C5B-8DD8A80C6BF3}
+	EndGlobalSection
+EndGlobal

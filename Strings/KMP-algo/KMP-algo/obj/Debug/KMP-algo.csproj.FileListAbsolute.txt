@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\bin\Debug\KMP-algo.exe.config
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\bin\Debug\KMP-algo.exe
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\bin\Debug\KMP-algo.pdb
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\obj\Debug\KMP-algo.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\obj\Debug\KMP-algo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\obj\Debug\KMP-algo.exe
+C:\Users\Alex\source\repos\KMP-algo\KMP-algo\obj\Debug\KMP-algo.pdb
